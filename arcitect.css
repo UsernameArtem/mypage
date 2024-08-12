@@ -1,0 +1,39 @@
+.title{
+    font-family: "Roboto", sans-serif;
+}
+.sectionTitle{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 64px;
+    line-height: 64px;
+    color:#BDBDBD;
+
+}
+.firstNumber{
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+
+    font-size: 200px;
+    line-height: 234.38px;
+
+
+    
+
+}
+.secondNumber{
+
+
+}
+.firstText{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 36px;
+    
+
+
+
+}
+.secondText{
+
+}
