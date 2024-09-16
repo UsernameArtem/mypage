@@ -76,3 +76,29 @@
     background-color: white;
     border: none;
 }
+.wrap{
+    padding:48px 24px ;
+
+}
+.firstText{
+
+    font-family: "Montserrat", sans-serif;
+    font-weight:400 ;
+    font-size: 16px;
+    line-height: 27px;
+
+}
+.secondText{
+    font-family: "Montserrat", sans-serif;
+    font-weight:400 ;
+    font-size: 16px;
+    line-height: 27px;
+
+
+}
+.bankImg{
+    margin-bottom: 64px;
+    margin-top: 64px;
+
+    
+}
